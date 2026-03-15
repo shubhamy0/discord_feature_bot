@@ -7,7 +7,7 @@ A personal Discord bot that i run locally. Built with Python and discord.py.
 - Send DMs to users via commands
 - Auto Reacts to messages with Emoticons to specific users
 - Tag system for saving and retrieving custom responses
-- Owner-only — only I can use it
+- Owner-only commands for administrative control
 
 ## Commands
 | Command | Description |
@@ -29,4 +29,4 @@ A personal Discord bot that i run locally. Built with Python and discord.py.
     ```
 4. Run the bot: `python3 dcb.py`
 
-It is being run locally on my machine and i dont plan it to host 24/7 anytime soon :)
+The bot currently runs locally for testing and development. :)
