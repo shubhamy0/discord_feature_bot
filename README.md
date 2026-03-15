@@ -9,6 +9,12 @@ A Discord bot built using Python and discord.py to automate server utilities and
 - Tag system for saving and retrieving custom responses
 - Owner-only commands for administrative control
 
+## Tech Stack
+- Python
+- discord.py
+- dotenv
+- Flask (for future hosting support)
+
 ## Commands
 | Command | Description |
 |---|---|
