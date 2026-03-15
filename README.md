@@ -5,6 +5,7 @@ A personal Discord bot that i run locally. Built with Python and discord.py.
 ## Features
 - Auto-replies to specific users with random text, GIFs, or images
 - Send DMs to users via commands
+- Auto Reacts to messages with Emoticons to specific users
 - Tag system for saving and retrieving custom responses
 - Owner-only — only I can use it
 - can use it for trolling xD
