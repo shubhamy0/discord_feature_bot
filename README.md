@@ -1,6 +1,6 @@
 # Discord Feature Bot
 
-A personal Discord bot that i run locally. Built with Python and discord.py.
+A Discord bot built using Python and discord.py to automate server utilities and custom interactions.
 
 ## Features
 - Auto-replies to specific users with random text, GIFs, or images
