@@ -8,7 +8,6 @@ A personal Discord bot that i run locally. Built with Python and discord.py.
 - Auto Reacts to messages with Emoticons to specific users
 - Tag system for saving and retrieving custom responses
 - Owner-only — only I can use it
-- can use it for trolling xD
 
 ## Commands
 | Command | Description |
